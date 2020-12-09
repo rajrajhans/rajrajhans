@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on [ExamSecure](https://examsecure.rajrajhans.com/).
 - 🌱 I’m currently learning [GatsbyJS](https://rajrajhans.com/2020/07/what-is-gatsby/). 
-- 💬 Ask me about [Flask](https://rajrajhans.com/tags/flask/), [ReactJS](https://rajrajhans.com/tags/react-js/).
+- 💬 Ask me about [API Development using Flask](https://rajrajhans.com/tags/flask/), [ReactJS](https://rajrajhans.com/tags/react-js/).
 - 📫 How to reach me: [rajrajhans.com/contact](https://rajrajhans.com/)
